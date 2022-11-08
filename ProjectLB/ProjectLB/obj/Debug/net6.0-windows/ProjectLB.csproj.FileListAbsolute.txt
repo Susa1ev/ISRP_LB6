@@ -1,0 +1,17 @@
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\bin\Debug\net6.0-windows\ProjectLB.exe
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\bin\Debug\net6.0-windows\ProjectLB.deps.json
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\bin\Debug\net6.0-windows\ProjectLB.runtimeconfig.json
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\bin\Debug\net6.0-windows\ProjectLB.dll
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\bin\Debug\net6.0-windows\ProjectLB.pdb
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.Form1.resources
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.AssemblyInfo.cs
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.dll
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\refint\ProjectLB.dll
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.pdb
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ProjectLB.genruntimeconfig.cache
+C:\Users\susal\source\repos\ProjectLB\ProjectLB\obj\Debug\net6.0-windows\ref\ProjectLB.dll
